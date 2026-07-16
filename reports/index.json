@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260715-235150-3jon",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-07-16T03:51:50.000Z",
+      "dateEnd": "2026-07-16T05:17:02.000Z",
+      "dateLabel": "15/07/2026, 23:51:50 - 16/07/2026, 01:17:02",
+      "url": "https://vinceengo.github.io/gw2-ebg/?report=20260715-235150-3jon",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 35
+      }
+    }
+  ]
+}
