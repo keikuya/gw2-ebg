@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-232248-d1eo",
+      "title": "Nico Da Illustrious, Sky Rynkiana",
+      "commanders": [
+        "Nico Da Illustrious",
+        "Sky Rynkiana"
+      ],
+      "dateStart": "2026-07-21T03:22:48.000Z",
+      "dateEnd": "2026-07-21T05:22:08.000Z",
+      "dateLabel": "20/07/2026, 23:22:48 - 21/07/2026, 01:22:08",
+      "url": "https://vinceengo.github.io/gw2-ebg/?report=20260720-232248-d1eo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260716-232001-gmwp",
       "title": "Nico Da Illustrious",
       "commanders": [
