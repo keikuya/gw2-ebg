@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-235134-099o",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-07-24T03:51:34.000Z",
+      "dateEnd": "2026-07-24T05:38:06.000Z",
+      "dateLabel": "23/07/2026, 23:51:34 - 24/07/2026, 01:38:06",
+      "url": "https://keikuya.github.io/gw2-ebg/?report=20260723-235134-099o",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260723-010128-kf2o",
       "title": "Nico Da Illustrious",
       "commanders": [
