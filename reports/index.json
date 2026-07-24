@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-121814-axl3",
+      "title": "Cinnanomz",
+      "commanders": [
+        "Cinnanomz"
+      ],
+      "dateStart": "2026-07-24T16:18:14.000Z",
+      "dateEnd": "2026-07-24T18:15:44.000Z",
+      "dateLabel": "24/07/2026, 12:18:14 - 24/07/2026, 14:15:44",
+      "url": "https://keikuya.github.io/gw2-ebg/?report=20260724-121814-axl3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260723-235134-099o",
       "title": "Nico Da Illustrious",
       "commanders": [
