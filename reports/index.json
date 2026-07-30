@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-225657-66fq",
+      "title": "Johnny Fayth, Nico Da Illustrious",
+      "commanders": [
+        "Johnny Fayth",
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-07-30T02:56:57.000Z",
+      "dateEnd": "2026-07-30T04:42:11.000Z",
+      "dateLabel": "29/07/2026, 22:56:57 - 30/07/2026, 00:42:11",
+      "url": "https://keikuya.github.io/gw2-ebg/?report=20260729-225657-66fq",
+      "summary": {
+        "borderlandsPct": 0.44,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260724-190136-phpe",
       "title": "Cinnanomz",
       "commanders": [
