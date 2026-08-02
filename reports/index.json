@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-222232-nprs",
+      "title": "Boola Sangat",
+      "commanders": [
+        "Boola Sangat"
+      ],
+      "guild": {
+        "id": "C3A65AFD-3565-F111-BB16-027555657585",
+        "name": "Black Wyrm Company",
+        "tag": "BWC"
+      },
+      "dateStart": "2026-08-02T02:22:32.000Z",
+      "dateEnd": "2026-08-02T02:25:48.000Z",
+      "dateLabel": "01/08/2026, 22:22:32 - 01/08/2026, 22:25:48",
+      "url": "https://keikuya.github.io/gw2-ebg/?report=20260801-222232-nprs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260801-214619-10fi",
       "title": "Boola Sangat",
       "commanders": [
