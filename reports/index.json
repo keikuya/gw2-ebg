@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-201821-eb4i",
+      "title": "Boola Sangat",
+      "commanders": [
+        "Boola Sangat"
+      ],
+      "guild": {
+        "id": "C3A65AFD-3565-F111-BB16-027555657585",
+        "name": "Black Wyrm Company",
+        "tag": "BWC"
+      },
+      "dateStart": "2026-08-02T00:18:21.000Z",
+      "dateEnd": "2026-08-02T01:33:46.000Z",
+      "dateLabel": "01/08/2026, 20:18:21 - 01/08/2026, 21:33:46",
+      "url": "https://keikuya.github.io/gw2-ebg/?report=20260801-201821-eb4i",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Slothasor",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20260729-225657-66fq",
       "title": "Johnny Fayth, Nico Da Illustrious",
       "commanders": [
