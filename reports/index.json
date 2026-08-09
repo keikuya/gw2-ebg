@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-213340-vr4d",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-09T01:33:40.000Z",
+      "dateEnd": "2026-08-09T02:53:30.000Z",
+      "dateLabel": "08/08/2026, 21:33:40 - 08/08/2026, 22:53:30",
+      "url": "https://keikuya.github.io/gw2-ebg/?report=20260808-213340-vr4d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260801-222232-nprs",
       "title": "Boola Sangat",
       "commanders": [
